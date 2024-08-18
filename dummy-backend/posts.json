@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "body": "Testing", "author": "my name", "id": "0.25198978330878874" },
+    { "body": "Nextjs is Awesome", "author": "Vincent Anjiri", "id": "post-1" }
+  ]
+}
