@@ -1,4 +1,4 @@
-import MeetupList from "../components/layout/meetups/MeetupList";
+import MeetupList from "../components/meetups/MeetupList";
 
 const DUMMY_DATA = [
   {
@@ -15,6 +15,14 @@ const DUMMY_DATA = [
     title: "This is a second meetup",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+    address: "Meetupstreet 5, 12345 Meetup City",
+    description:
+      "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
+  },
+  {
+    id: "m3",
+    title: "This is a third meetup",
+    image: "https://picsum.photos/id/1/200/300",
     address: "Meetupstreet 5, 12345 Meetup City",
     description:
       "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
